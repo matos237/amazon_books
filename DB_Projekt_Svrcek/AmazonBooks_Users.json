@@ -1,0 +1,29 @@
+[
+{
+    "first_name": "Jozef",
+    "last_name": "Ozembuch",
+    "birth_date": "1990-02-15",
+    "gender": "Male",
+    "age": 34,
+    "email": "jozin420@gmail.com",
+    "address_id": 1234567890
+},
+{
+    "first_name": "Duri",
+    "last_name": "Maslovy",
+    "birth_date": "1985-11-07",
+    "gender": "Male",
+    "age": 41,
+    "email": "durotrulo@azet.sk",
+    "address_id": 468485
+},
+{
+    "first_name": "Aneta",
+    "last_name": "Stolickova",
+    "birth_date": "1998-12-03",
+    "gender": "Female",
+    "age": 26,
+    "email": "aneta15465@gmail.com",
+    "address_id": 975551
+}
+]

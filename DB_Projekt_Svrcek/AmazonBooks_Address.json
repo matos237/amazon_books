@@ -1,0 +1,23 @@
+[
+{
+    "street": "Hlavna 20",
+    "postal_code": "12345",
+    "city": "Namestovo",
+    "state": "Nepamatam si kde to je",
+    "country": "SK"
+},
+{
+    "street": "Vedlajsia 106",
+    "postal_code": "54321",
+    "city": "Predmestovo",
+    "state": "Asi nie je",
+    "country": "SK"
+},
+{
+    "street": "Tercialna 44",
+    "postal_code": "94752",
+    "city": "Vedlamestovo",
+    "state": "Isto je",
+    "country": "SK"
+}
+]

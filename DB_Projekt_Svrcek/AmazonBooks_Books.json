@@ -1,0 +1,167 @@
+[
+{
+    "name": "Knizka deda Vecernicka",
+    "year_published": 2023,
+    "language": "English",
+    "ISBN": "123-4567890123",
+    "pageCount": "350",
+    "format": "Hardcover",
+    "edition": "First Edition",
+    "publication_date": "2023-05-01",
+    "weight": "500",
+    "book_series": {
+      "series_name": "Knizky babky Vecernicky",
+      "description": "Dufam, ze toto nikto nebude nikdy citat."
+    },
+    "genre": {
+      "genre_name": "Science Fiction",
+      "description": "Vymyslene veci rovnako jak tieto texty."
+    },
+    "author": {
+      "first_name": "Duri",
+      "last_name": "Jarabik",
+      "nationality": "Starosmokovcan",
+      "website": "http://duri.sk",
+      "birth_date": "1970-01-01"
+    },
+    "publisher": {
+      "publisher_name": "Matrica Slovenska",
+      "founder": "Duri Kohutik",
+      "website": "http://matrica.sk",
+      "address_id": 1234567890
+    },
+    "awards": [
+      {
+        "award_name": "Best Sci-Fi Novel",
+        "award_year": "2023-01-01",
+        "organization_name": "Sci-Fi Writers Association",
+        "award_date": "2023-12-01"
+      }
+    ],
+    "events": [
+      {
+        "event_name": "Pokrstenie",
+        "event_date": "2023-05-15",
+        "description": "Krst fajnovej knizky v Novom Smokovci."
+      }
+    ],
+    "reviews": [
+      {
+        "user_id": 123456,
+        "user_rating": "5",
+        "review_text": "Bomba!",
+        "review_date": "2023-06-01"
+      }
+    ]
+},
+  {
+    "name": "Knizka babky Vecernickovej",
+    "year_published": 2024,
+    "language": "English",
+    "ISBN": "123-456654165",
+    "pageCount": "360",
+    "format": "Hardcover",
+    "edition": "First Edition",
+    "publication_date": "2024-05-01",
+    "weight": "570",
+    "book_series": {
+      "series_name": "Knizky deda Mraza",
+      "description": "Dufam, ze toto nikto nebude nikdy citat."
+    },
+    "genre": {
+      "genre_name": "Science Fiction",
+      "description": "Vymyslene veci rovnako jak tieto texty."
+    },
+    "author": {
+      "first_name": "Duri",
+      "last_name": "Jarabik",
+      "nationality": "Starosmokovcan",
+      "website": "http://duri.sk",
+      "birth_date": "1970-01-01"
+    },
+    "publisher": {
+      "publisher_name": "Matrica Slovenska",
+      "founder": "Duri Kohutik",
+      "website": "http://matrica.sk",
+      "address_id": 1234567890
+    },
+    "awards": [
+      {
+        "award_name": "Second best Sci-Fi Novel",
+        "award_year": "2024-01-01",
+        "organization_name": "Sci-Fi Writers Association",
+        "award_date": "2024-12-01"
+      }
+    ],
+    "events": [
+      {
+        "event_name": "Semerske hody",
+        "event_date": "2024-05-15",
+        "description": "Doteraz ma boli hlava."
+      }
+    ],
+    "reviews": [
+      {
+        "user_id": 18465,
+        "user_rating": "6",
+        "review_text": "Spica!",
+        "review_date": "2024-06-01"
+      }
+    ]
+},
+{
+  "name": "Dochadzaju mi napady",
+  "year_published": 2024,
+  "language": "English",
+  "ISBN": "456-456654165",
+  "pageCount": "70",
+  "format": "Hardcover",
+  "edition": "Prva a posledna",
+  "publication_date": "2024-06-01",
+  "weight": "150",
+  "book_series": {
+    "series_name": "Pisem jsony o 1 rano",
+    "description": "Dufam, ze toto nikto nebude nikdy citat."
+  },
+  "genre": {
+    "genre_name": "Velke scifi",
+    "description": "Vymyslene veci rovnako jak tieto texty."
+  },
+  "author": {
+    "first_name": "Matej",
+    "last_name": "Svrcko",
+    "nationality": "Koltan",
+    "website": "http://estenemam.sk",
+    "birth_date": "2002-01-01"
+  },
+  "publisher": {
+    "publisher_name": "Kutyil s.r.o",
+    "founder": "Laszlo",
+    "website": "http://nemdobre.hu",
+    "address_id": 465498411
+  },
+  "awards": [
+    {
+      "award_name": "Najhorsia literatura tisicrocia",
+      "award_year": "2024-06-01",
+      "organization_name": "Intergalakticky zbor basnickych ufonov",
+      "award_date": "2021-12-01"
+    }
+  ],
+  "events": [
+    {
+      "event_name": "Korytnacky ovladnu planetu",
+      "event_date": "2024-06-22",
+      "description": "Bude to rychle."
+    }
+  ],
+  "reviews": [
+    {
+      "user_id": 546855,
+      "user_rating": "1",
+      "review_text": "Poslite tohto cloveka na nejake vysetrenie prosim.",
+      "review_date": "2024-06-01"
+    }
+  ]
+}
+]
